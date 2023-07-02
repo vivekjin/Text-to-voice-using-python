@@ -1,6 +1,6 @@
 import os
 if __name__ == '__main__':
-    print("welcome tp RoboSpeaker by vivek")
+    print("welcome to RoboSpeaker by vivek")
     while True:
         x = input("enter command \n")
         if x == "":
